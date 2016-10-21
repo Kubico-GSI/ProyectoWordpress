@@ -477,4 +477,24 @@
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0003</rem:owner><rem:date>
+<rem:year>2016</rem:year>
+<rem:month>10</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Este bloque representa el Documento de Requisitos del Sistema de la empresa Kubico Bermejales. A continuación se proporciona toda la información referente a los requisitos del sistema y el analisis del sistema, también los participantes del proyecto y los objetivos que se quieren alcanzar  en el proyecto.
+] -> [Este bloque representa el Documento de Requisitos del Sistema de la empresa Kubico Bermejales. A continuación se proporciona toda la información referente a los requisitos y el analisis del sistema, también los participantes del proyecto y los objetivos que se quieren alcanzar  en el proyecto.
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0003</rem:owner><rem:date>
+<rem:year>2016</rem:year>
+<rem:month>10</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
 </rem:log>

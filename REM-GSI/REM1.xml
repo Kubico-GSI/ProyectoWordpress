@@ -34,6 +34,24 @@ Introducción</rem:name>
 Ninguno</rem:comments>
 <rem:level>1</rem:level>
 <rem:number>1 </rem:number>
+<rem:paragraph
+ oid = "PRG-0003">
+<rem:name>
+Introducción</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2016</rem:year>
+<rem:month>10</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders ="STK-0004 "/>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>Este bloque representa el Documento de Requisitos del Sistema de la empresa Kubico Bermejales. A continuación se proporciona toda la información referente a los requisitos y el analisis del sistema, también los participantes del proyecto y los objetivos que se quieren alcanzar  en el proyecto.<br/></rem:text>
+</rem:paragraph>
 </rem:section>
 <rem:section
  oid = "SEC-0010">
