@@ -1,0 +1,2 @@
+Para conseguir la cocina  <span class="js-rotating">OnePress | One Page | Responsive | Perfection</span>
+- Esto hace que las palabras dentro de la etiquete span vayan cambiando con una agitación (perfecto cabecera)
