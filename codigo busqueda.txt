@@ -1,4 +1,4 @@
- <config replaca="true" evaluator="string-compare" condition="AdvancedSearch">
+ <config replace="true" evaluator="string-compare" condition="AdvancedSearch">
    <advanced-search>
    <forms>
    < form labelId="search.form.label.cm_content" descriptionId="search.form.desc.cm_content">cm:content</form>
