@@ -1,0 +1,28 @@
+ <config replaca="true" evaluator="string-compare" condition="AdvancedSearch">
+   <advanced-search>
+   <forms>
+   < form labelId="search.form.label.cm_content" descriptionId="search.form.desc.cm_content">cm:content</form>
+   < form labelId="search.form.label.cm_folder" descriptionId="search.form.desc.cm_folder">cm:folder</form>
+   < form labelId="Planos" descriptionId="Busca Plano">kbc:Planos</form>
+   </forms>
+   </advanced-search>
+   </config>
+
+
+
+
+  <config evaluator="model-type" condition="kbc:Planos">
+   <forms>
+   <form id="search">
+    <field-visibility>
+     <show id="kbc:Nombre" force="true"/>
+      </field-visibility>
+<appearance> 
+<field id="kbc:Nombre" label-id="Nombre">
+<control template="/org/alfresco/components/form/controls/textfield.ftl"/>
+</field>
+</appearance>	  
+   
+   </form>
+   </forms>
+   </config>
