@@ -1,17 +1,17 @@
 kubicobermejales.tk/admin
 Usuario: kubico
-Contraseña grupogsi2016
+ContraseÃ±a grupogsi2016
 
 
 kubicobermejales.com.es
-Usuario: 
-Contraseña: 
+Usuario: administrador
+ContraseÃ±a: grupogsi2016K
 
 
 Hostinger (.tk)
 Usuario: kubicogsi@gmail.com
-Contraseña: grupogsi2016
+ContraseÃ±a: grupogsi2016
 
 Hostinger (.com.es)
 Usuario: koneky93@gmail.com
-Contraseña: grupogsi2016
+ContraseÃ±a: grupogsi2016
