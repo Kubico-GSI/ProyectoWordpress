@@ -15,3 +15,13 @@ Contraseña: grupogsi2016
 Hostinger (.com.es)
 Usuario: koneky93@gmail.com
 Contraseña: grupogsi2016
+
+
+Usuario irene en buddypress
+
+Nombre :Irene
+pass: koneky93
+
+Usuario Paco en buddypress
+Nombre : Proveedor
+pass:paco
